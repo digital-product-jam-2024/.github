@@ -2,7 +2,7 @@
 
 This repository holds software development course materials for Digital Product Jam - a joint course run by [Bezalel Academy of Art and Design](https://www.bezalel.ac.il/en), and the [Hebrew University](https://www.google.com/search?client=safari&rls=en&q=hebrew+universoity&ie=UTF-8&oe=UTF-8).
 
-## Course description {#description}
+## Course description  {#description}
 
 We all engage with digital products in daily life: we work with them, we express ourselves with them, we communicate through them, we discover information with them.
 
@@ -15,14 +15,14 @@ Students will work in teams of designers and developers and will experience prod
 - Experience of working in teams of designers and developers that is similar to "real" work in the software industry
 - Experience of design, development and product management in front of "real" clients
 - Experience of product development for "social good" organizations
-- (Development stream) The application of web technologies towards the delivery of a working product
-- (Design stream) The application of user interface design, branding and packaging toward the delivery of a working product
+- The application of web technologies towards the delivery of a working product (Development stream)
+- The application of user interface design, branding and packaging toward the delivery of a working product (Design stream)
 
 ## Course discussion  {#discussion}
 
 [The discussion forum for the course is here](https://github.com/digital-product-jam-2024/course/discussions).
 
-## Submitting assignments {#assignments}
+## Submitting assignments  {#assignments}
 
 All assignments need to the submitted in the following way:
 
