@@ -23,13 +23,19 @@ Students will work in teams of designers and developers and will experience prod
 We encourage you to ask questions and discuss technical issues with your classmate and the course staff. You can do that on the
 [discussion forum for the course](https://github.com/digital-product-jam-2024/course/discussions).
 
+## Office hours
+
+If you need help with any of the course materials, you can attend office hours. Office hours are held on Zoom, and you can join at any time during the hour. You can also ask questions on the [discussion forum for the course](https://github.com/digital-product-jam-2024/course/discussions).
+
+**Wednesday 16:00 - 17:00**
+
 ## Assignments
 
 The majority of the grading of the course is related to team work. However, there are a number of assignments related to software development, where you are graded individually. These assignments must be submitted in the following way:
 
 - All code must be commited to *your own* code repository (which is either a "copy" or a "fork" of an original codebase for the assignment), hosted on GitHub
 - The application must be deployed and accessible via a public URL (this will happen automatically if Vercel is configured correctly for your application, but you should also verify on a per-assignment basis)
-- On completion, submit your task by adding a comment with the following information to the open issue for the task [here](https://github.com/digital-product-jam-2024/tasks/issues):
+- On completion, submit your task by adding a comment with the following information to the open issue for the task [here](https://github.com/digital-product-jam-2024/course/issues):
   - the URL to your GitHub repository
   - the public URL of the working application
 - All tasks must be submitted by end of day on the Tuesday before the class (class is on Wednesday)
