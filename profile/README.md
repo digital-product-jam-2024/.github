@@ -58,11 +58,11 @@ You can see all the required software setup for the course in the [Setup Guide](
 
 We provide a starter kit for all software development, [available here](https://github.com/digital-product-jam-2024/starter-kit).
 
-## Course presentations  {#presentations}
+## Lessons
 
 TODO - the software development course materials will be published here.
 
-## Reference materials  {#reference}
+## Reference
 
 We provide a collection of reference materials for the course:
 
