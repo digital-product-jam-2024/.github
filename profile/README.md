@@ -79,10 +79,9 @@ We have some videos to help explain concepts or integrations that we don't get t
 We provide a collection of reference materials for the course:
 
 - [Setup Guide](./reference/setup.md)
-
 - [HTML](./reference/html.md)
 - [CSS](./reference/css.md)
 - [JavaScript](./reference/javascript.md)
 - [HTTP](./reference/http.md)
-
 - [Git](./reference/git.md)
+- [React / Next.js](./reference/frameworks.md)
