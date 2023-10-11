@@ -62,6 +62,18 @@ We provide a starter kit for all software development, [available here](https://
 
 TODO - the software development course materials will be published here.
 
+## Videos
+
+We have some videos to help explain concepts or integrations that we don't get time to cover in detail in class. We indicate the year the video was recorded in case there are slight changes between the video and what you encounter in the course. See the [YouTube channel here](https://www.youtube.com/channel/UC9YmdWJs-bRo4lZX8WaanNw), and links to specific videos below.
+
+- [Configuring Vercel For Your Project/Repository (2023)](https://youtu.be/wBDSPLGXgok)
+- [Vercel Environment Variables Overview (2022)](https://youtu.be/qHtbwt_Tk6Y)
+- [Supabase (Database) UI Overview (2022)](https://youtu.be/idNq2M7EhZs)
+- [Next/Supabase API Overview (2022)](https://youtu.be/N4Oc7OMuBqw)
+- [Google Drive Integration Overview (2022)](https://youtu.be/4RjImTNU2ZA)
+- [Random Team Generator Overview (2022)](https://youtu.be/Kxd6vByPQIw)
+
+
 ## Reference
 
 We provide a collection of reference materials for the course:
