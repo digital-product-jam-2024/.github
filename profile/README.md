@@ -52,7 +52,7 @@ For assignments and also for teamwork, we grade your programming contributions b
 
 ## Setup
 
-You can see all the required software setup for the course in the [Setup Guide](./reference/setup.md).
+You can see all the required software setup for the course in the [Setup Guide](https://github.com/digital-product-jam-2024/course/blob/main/reference/setup.md).
 
 ## Starter
 
@@ -64,7 +64,7 @@ We provide a starter kit for all software development, [available here](https://
 
 ## Resources
 
-- A template for the [Technical Requirements Document](./resources/technical-requirements-document.md)
+- A template for the [Technical Requirements Document](https://github.com/digital-product-jam-2024/course/blob/main/resources/technical-requirements-document.md)
 
 ## Videos
 
@@ -82,10 +82,10 @@ We have some videos to help explain concepts or integrations that we don't get t
 
 We provide a collection of reference materials for the course:
 
-- [Setup Guide](./reference/setup.md)
-- [HTML](./reference/html.md)
-- [CSS](./reference/css.md)
-- [JavaScript](./reference/javascript.md)
-- [HTTP](./reference/http.md)
-- [Git](./reference/git.md)
-- [React / Next.js](./reference/frameworks.md)
+- [Setup Guide](https://github.com/digital-product-jam-2024/course/blob/main/reference/setup.md)
+- [HTML](https://github.com/digital-product-jam-2024/course/blob/main/reference/html.md)
+- [CSS](https://github.com/digital-product-jam-2024/course/blob/main/reference/css.md)
+- [JavaScript](https://github.com/digital-product-jam-2024/course/blob/main/reference/javascript.md)
+- [HTTP](https://github.com/digital-product-jam-2024/course/blob/main/reference/http.md)
+- [Git](https://github.com/digital-product-jam-2024/course/blob/main/reference/git.md)
+- [React / Next.js](https://github.com/digital-product-jam-2024/course/blob/main/reference/frameworks.md)
