@@ -60,7 +60,11 @@ We provide a starter kit for all software development, [available here](https://
 
 ## Lessons
 
-TODO - the software development course materials will be published here.
+- All slides from lessons are [available here](https://drive.google.com/drive/u/0/folders/1SnGiU1699-zOb_vFebawGlwKJjSBstI8)
+
+## Resources
+
+- [Technical Requirements Document Template](./resources/technical-requirements-template.md)
 
 ## Videos
 
