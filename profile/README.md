@@ -64,7 +64,7 @@ We provide a starter kit for all software development, [available here](https://
 
 ## Resources
 
-- [Technical Requirements Document Template](./resources/technical-requirements-document.md)
+- A template for the [Technical Requirements Document](./resources/technical-requirements-document.md)
 
 ## Videos
 
