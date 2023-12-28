@@ -1,6 +1,6 @@
 # Digital Product Jam
 
-This repository holds software development course materials for Digital Product Jam - a joint course run by [Bezalel Academy of Art and Design](https://www.bezalel.ac.il/en), and the [Hebrew University](https://en.huji.ac.il).
+This repository holds software development course materials for Digital Product Jam - a joint course run by [Bezalel Academy of Art and Design](https://www.bezalel.ac.il/en), and the [Hebrew University](https://www.google.com/search?client=safari&rls=en&q=hebrew+universoity&ie=UTF-8&oe=UTF-8).
 
 ## Description
 
@@ -30,6 +30,8 @@ If you need help with any of the course materials, you can attend office hours. 
 **Wednesday 16:00 - 17:00**
 
 ## Assignments
+
+- All technical assignments will be [added here](https://github.com/digital-product-jam-2024/course/tree/main/assignments)
 
 The majority of the grading of the course is related to team work. However, there are a number of assignments related to software development, where you are graded individually. These assignments must be submitted in the following way:
 
