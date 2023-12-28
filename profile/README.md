@@ -20,12 +20,12 @@ Students will work in teams of designers and developers and will experience prod
 
 ## Discussion
 
-We encourage you to ask questions and discuss technical issues with your classmate and the course staff. You can do that on the
+We encourage you to ask questions and discuss technical issues with your classmates and the course staff. You can do that on the
 [discussion forum for the course](https://github.com/digital-product-jam-2024/course/discussions).
 
 ## Office hours
 
-If you need help with any of the course materials, you can attend office hours. Office hours are held on Google Meet, and can be scheduled at the link below. You can also ask questions on the [discussion forum for the course](https://github.com/digital-product-jam-2024/course/discussions).
+If you need help with any of the course materials, you can attend office hours. Office hours are held on Google Meet, and can be scheduled at the link below. You can also ask questions on the [discussion forum for the course](https://github.com/digital-product-jam-2024/course/discussions) - we really encourage you do do this and to learn from other partcipants in the course as mucvh as possible.
 
 [Book Office Hours](https://calendly.com/digital-product-jam/office-hours)
 
@@ -52,6 +52,8 @@ For assignments and also for teamwork, we grade your programming contributions b
 - Alignment with the design prototype (if any)
 - Alignment with overall product goals (if any)
 
+**NOTE**: Remember, this is primarily a practical course with work done in teams. This is reflected in the overal grading structure for the course. The grading was discussed in lesson one, and you can [see the full details here](https://docs.google.com/presentation/d/1er2CK3IMQKCCnFJOrs3vV4koh1z7sZ4uvGJmKXb-Z7Q/edit#slide=id.g2a8bfd8d90c_0_325).
+
 ## Setup
 
 You can see all the required software setup for the course in the [Setup Guide](https://github.com/digital-product-jam-2024/course/blob/main/reference/setup.md).
@@ -66,6 +68,9 @@ We provide a starter kit for all software development, [available here](https://
 
 ## Resources
 
+- [Briefs](https://drive.google.com/drive/u/0/folders/1IEq4LO3kVgJFkM4H_OqTMMNR0axAKQgR) - briefs for team work will be here
+- [Presentations](https://drive.google.com/drive/u/0/folders/1SnGiU1699-zOb_vFebawGlwKJjSBstI8) - All presentations from lessons will be available here
+- [Team Submissions](https://drive.google.com/drive/u/0/folders/1cHlK90AryL_0e-pp68w4I6E55THVMM4Y) - All team work submissions to be submitted here
 - A template for the [Technical Requirements Document](https://github.com/digital-product-jam-2024/course/blob/main/resources/technical-requirements-document.md)
 
 ## Videos
