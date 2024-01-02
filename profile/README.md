@@ -25,7 +25,7 @@ We encourage you to ask questions and discuss technical issues with your classma
 
 ## Office hours
 
-If you need help with any of the course materials, you can attend office hours. Office hours are held on Google Meet, and can be scheduled at the link below. You can also ask questions on the [discussion forum for the course](https://github.com/digital-product-jam-2024/course/discussions) - we really encourage you do do this and to learn from other partcipants in the course as mucvh as possible.
+If you need help with any of the course materials, you can attend office hours. Office hours are held on Google Meet, and can be scheduled at the link below. You can also ask questions on the [discussion forum for the course](https://github.com/digital-product-jam-2024/course/discussions) - we really encourage you do do this and to learn from other partcipants in the course as much as possible.
 
 [Book Office Hours](https://calendly.com/digital-product-jam/office-hours)
 
