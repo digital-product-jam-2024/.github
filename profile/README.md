@@ -84,7 +84,6 @@ We have some videos to help explain concepts or integrations that we don't get t
 - [Google Drive Integration Overview (2022)](https://youtu.be/4RjImTNU2ZA)
 - [Random Team Generator Overview (2022)](https://youtu.be/Kxd6vByPQIw)
 
-
 ## Reference
 
 We provide a collection of reference materials for the course:
@@ -96,3 +95,14 @@ We provide a collection of reference materials for the course:
 - [HTTP](https://github.com/digital-product-jam-2024/course/blob/main/reference/http.md)
 - [Git](https://github.com/digital-product-jam-2024/course/blob/main/reference/git.md)
 - [React / Next.js](https://github.com/digital-product-jam-2024/course/blob/main/reference/frameworks.md)
+
+## Bootcamp
+
+If you have no prior experience in HTML, CSS, or JavaScript, or, you want to refresh your knowledge, then it is recommended you take the following free courses at Codecademy, in the suggested order below. You will not be graded on your work for these courses on Codecademy.
+
+1. [Learn HTML on Codecademy](https://www.codecademy.com/learn/learn-html)
+2. [Learn CSS on Codecademy](https://www.codecademy.com/learn/learn-css)
+3. [Learn CSS: Flexbox and Grid on Codecademy](https://www.codecademy.com/learn/learn-css-flexbox-and-grid)
+4. [Learn JavaScript on Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
+5. [Learn React on Codecademy](https://www.codecademy.com/learn/react-101)
+6. [Learn Asynchronous JavaScript on Codecademy](https://www.codecademy.com/learn/asynchronous-javascript)
