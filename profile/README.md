@@ -42,6 +42,18 @@ The majority of the grading of the course is related to team work. However, ther
   - the public URL of the working application
 - All tasks must be submitted by end of day on the Tuesday before the class (class is on Wednesday)
 
+### Individual assignments
+
+- [Setup for the course](https://github.com/digital-product-jam-2024/course/tree/main/assignments/01.md)
+- [Deploy your own website](https://github.com/digital-product-jam-2024/course/tree/main/assignments/02.md)
+
+### Team tasks
+
+- [Technical requirements document](https://github.com/digital-product-jam-2024/course/tree/main/assignments/03.md)
+- [Implement one end to end functional flow](https://github.com/digital-product-jam-2024/course/tree/main/assignments/04.md)
+- [Implement a screen to wireframes](https://github.com/digital-product-jam-2024/course/tree/main/assignments/05.md)
+- [Implement a screen to final design](https://github.com/digital-product-jam-2024/course/tree/main/assignments/06.md)
+
 ### Grading criteria
 
 For assignments and also for teamwork, we grade your programming contributions based on the following criteria:
